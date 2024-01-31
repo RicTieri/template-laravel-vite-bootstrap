@@ -1,5 +1,5 @@
 @extends('layouts.app')
 
 @section('main-content')
-<h1>template</h1>
+<h1>esempio</h1>
 @endsection
